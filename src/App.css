@@ -1,0 +1,63 @@
+body{
+  margin: 0px;
+  background: url('http://wallpapercave.com/wp/ItmVuT6.jpg');
+  font-weight: lighter;
+}
+
+
+.App {
+  width:90%;
+}
+
+
+.form{
+  text-align: center;
+  padding: 5%;
+  background: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: serif;
+  font-weight: none;
+  margin-bottom: 10px;
+}
+
+button{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.form p{
+  font-weight: bold;
+  font-size: 25px
+}
+
+.header {
+  padding: 5%;
+  background-color: white;
+  text-align: left;
+  margin: 0 auto;
+  font-family: serif;
+  font-weight: none;
+  margin-bottom: 10px;
+}
+
+
+.MainCard{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.jumbotron {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.TopSection{
+  text-align: left;
+}
+
+.vehicle{
+  padding: 10px;
+  flex-basis: 33%
+}
